@@ -1,14 +1,15 @@
-Teacher
-====================================
-Yair
-
-Student
-====================================
-Juan Fernandez
-Xavier Cortes
-Rocio Davila
-Ignacio Peñafiel
-Gerson Mauricio
-Alfredo Tous
-
+_______________________________________   
+| Teacher
+| ====================================
+| Yair
+| 
+| Student
+| ====================================
+| Juan Fernandez
+| Xavier Cortes
+| Rocio Davila
+| Ignacio Peñafiel
+| Gerson Mauricio
+| Alfredo Tous
+|________________________________________
 
